@@ -1,0 +1,15 @@
+D:\Task_for_Un\Lab-2\bin\Debug\net6.0\Lab-2.exe
+D:\Task_for_Un\Lab-2\bin\Debug\net6.0\Lab-2.deps.json
+D:\Task_for_Un\Lab-2\bin\Debug\net6.0\Lab-2.runtimeconfig.json
+D:\Task_for_Un\Lab-2\bin\Debug\net6.0\Lab-2.dll
+D:\Task_for_Un\Lab-2\bin\Debug\net6.0\Lab-2.pdb
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.csproj.AssemblyReference.cache
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.AssemblyInfoInputs.cache
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.AssemblyInfo.cs
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.csproj.CoreCompileInputs.cache
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.dll
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\refint\Lab-2.dll
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.pdb
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\Lab-2.genruntimeconfig.cache
+D:\Task_for_Un\Lab-2\obj\Debug\net6.0\ref\Lab-2.dll
